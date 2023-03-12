@@ -40,7 +40,7 @@ export const Green: Story = {
 export const Black: Story = {
   args: {
     ...Green.args,
-    // type: 'black',
+    type: 'black',
   },
 }
 
